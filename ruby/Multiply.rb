@@ -6,7 +6,7 @@
   #end
 
 
-#answer:
+#solution:
 
 def multiply(a, b)
   a * b
